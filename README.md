@@ -46,19 +46,6 @@ Scrape a website and save the output to a CSV file:
 python scraper.py --url "https://quotes.toscrape.com" --output data.csv
 ```
 
-## ⚠️ Legal Disclaimer
-This project is intended for educational purposes only. **Ensure you have permission to scrape a website before using this tool.** Always follow the site's `robots.txt` and terms of service.
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## 📬 Contact
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🐦 Twitter: [@your-handle](https://twitter.com/your-handle)  
-
 ---
-Made with ❤️ by **[Tiya-10](https://github.com/Tiya-10)**
+Made by **[Tiya-10](https://github.com/Tiya-10)**
 
