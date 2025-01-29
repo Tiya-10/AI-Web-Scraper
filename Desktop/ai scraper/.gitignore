@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+NTUSER.*
+OneDrive/
+AppData/
+Cookies/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
